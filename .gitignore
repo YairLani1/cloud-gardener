@@ -1,0 +1,40 @@
+# Folders to ignore
+wroking_plan/
+__pycache__/
+Pics&Data/
+cmake-build-debug/
+upload/venv/
+
+
+# Files to ignore
+logbook.log
+capture image
+upload/cron_log
+
+# Additional common Python ignores
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE specific files (common)
+.idea/
+.vscode/
+*.swp
+*.swo
+*~ 
