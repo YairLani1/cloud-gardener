@@ -105,11 +105,17 @@ The scheduler will:
 
 ---
 
-## 📸 Media (Optional)
 
-> Add a photo or GIF here to show the real setup in action.
-> For example:
-> ![System Demo](media/demo.gif)
+## 📸 System Media
+
+### ▶️ Setup Video  
+[![Click to watch](Media/Structure1.jpg)](Media/Setup.mp4)
+
+### Structure Overview  
+![Structure2](Media/Structure2.jpg)
+
+### Zoomed In  
+![ZoomIn](Media/ZoomIn.jpg)
 
 ---
 
